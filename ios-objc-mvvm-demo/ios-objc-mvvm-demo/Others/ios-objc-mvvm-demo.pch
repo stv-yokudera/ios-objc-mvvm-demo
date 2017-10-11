@@ -1,0 +1,16 @@
+//
+//  ios-objc-mvvm-demo.pch
+//  ios-objc-mvvm-demo
+//
+//  Created by OkuderaYuki on 2017/10/12.
+//  Copyright © 2017年 OkuderaYuki. All rights reserved.
+//
+
+#ifndef ios_objc_mvvm_demo_pch
+#define ios_objc_mvvm_demo_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "UIImage+Download.h"
+
+#endif /* ios_objc_mvvm_demo_pch */
