@@ -11,8 +11,6 @@
 
 #import "Track.h"
 
-typedef void (^TrackViewModelCallback)(void);
-
 @protocol TrackViewModelChangingReceiving <NSObject>
 - (void)viewModelDidChange;
 @end
